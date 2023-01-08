@@ -1,12 +1,12 @@
 Things need to change to initiate setup
 file name : .env
-//change location of below APP_URL variable url same as ur mamp/xamp/server/wp
-APP_URL=http://localhost:8888/
+<p> //change location of below APP_URL variable url same as ur mamp/xamp/server/wp </p>
+<p>APP_URL=http://localhost:8888/</p>
 
-//set this change to mamp/xamp/server php.ini
-upload_max_filesize = 480M
-post_max_size = 480M
-memory_limit = 4096M
+<p>//set this change to mamp/xamp/server php.ini</p>
+<p>upload_max_filesize = 480M</p>
+<p>post_max_size = 480M</p>
+<p>memory_limit = 4096M</p>
 
 
 
