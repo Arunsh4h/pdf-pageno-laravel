@@ -1,3 +1,15 @@
+Things need to change to initiate setup
+file name : .env
+//change location of below APP_URL variable url same as ur mamp/xamp/server/wp
+APP_URL=http://localhost:8888/
+
+//set this change to mamp/xamp/server php.ini
+upload_max_filesize = 480M
+post_max_size = 480M
+memory_limit = 4096M
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
